@@ -26,7 +26,7 @@ When I'm not working with data, I enjoy watching movies and anime. I love the "a
 ## 🔭 Projects I did so far
 
 - <p><a href='https://github.com/TAHSIN78425/Walmart-Sales-Analysis'><b>Walmart Sales Data Analysis:<b></a> Analyzing Walmart sales data to identify sales trends, store performance, and the impact of economic factors using Excel, SQL, and Power BI.</p>
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- <p><a href=''https://github.com/TAHSIN78425/Stock-Market-Data-Analysis-and-Insights>Stock Market Data Analysis and Insights:</a>  Analyze historical stock data (2015–2025) using SQL and data visualization to identify performance trends, sector profitability, and risk–return relationships.</p>
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
 ## 🌱 Currently Learning 
