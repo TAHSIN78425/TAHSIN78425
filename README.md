@@ -38,6 +38,7 @@ When I'm not working with data, I enjoy watching movies and anime. I love the "a
 - **<a href='https://www.datacamp.com/completed/statement-of-accomplishment/course/1d351205515a9c0bfc5fc9ccd789b19f5026f351'>Data Analysis in Excel</a>**
 - **<a href='https://www.datacamp.com/completed/statement-of-accomplishment/course/75a4519124c7605d5a2299b123d98e964c435ab0'>Analyzing Data in Tableau</a>**
 - **<a href='https://www.datacamp.com/completed/statement-of-accomplishment/course/2e6edaba541a93dc3f06ee37bd11b3b4c5bcd50e'>Data Visualization in Power BI</a>**
+- **<a href='https://www.datacamp.com/completed/statement-of-accomplishment/course/47052bc0a72f9324cdf53b6022887b98a00e7d65'>Exploratory Data Analysis in SQL</a>**
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
