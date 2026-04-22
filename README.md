@@ -24,11 +24,11 @@ When I'm not working with data, I enjoy watching movies and anime. I love the "a
 ### [🏆 Check Out My Full Portfolio Website](https://tahsin78425.github.io/)
       
 ## 🔭 Projects I did so far
-
-- <p><a href='https://github.com/TAHSIN78425/Walmart-Sales-Analysis'><b>Walmart Sales Data Analysis:<b></a> Analyzing Walmart sales data to identify sales trends, store performance, and the impact of economic factors using Excel, SQL, and Power BI.</p>
 - <p><a href='https://github.com/TAHSIN78425/Stock-Market-Data-Analysis-and-Insights'>Stock Market Data Analysis and Insights:</a>  Analyze historical stock data (2015–2025) using SQL and data visualization to identify performance trends, sector profitability, and risk–return relationships.</p>
 - <p><a href='https://github.com/TAHSIN78425/Medicare-Inpatient-Healthcare-Analytics-by-Provider-and-DRG'>Medicare Inpatient Hospital Cost and Provider Performance Analysis:</a> Performed exploratory data analysis using Excel and built an interactive Power BI dashboard to examine Medicare payments, patient out-of-pocket costs, high-cost DRGs, and provider charge patterns across U.S. hospitals.</p>
 - <p><a href='https://github.com/TAHSIN78425/MTA-EMPLOYEE-PAYROLL-ANALYSIS'>MTA EMPLOYEE Payroll Analysis (2025):</a> Analyzed payroll data across multiple agencies to identify cost drivers, overtime dependency, and workforce trends. Built SQL queries and Tableu dashboards to uncover inefficiencies, high-cost departments, and enabling data-driven workforce optimization.</p>
+- <p><a href='https://github.com/TAHSIN78425/Walmart-Sales-Analysis'><b>Walmart Sales Data Analysis:<b></a> Analyzing Walmart sales data to identify sales trends, store performance, and the impact of economic factors using Excel, SQL, and Power BI.</p>
+
 
 
 
